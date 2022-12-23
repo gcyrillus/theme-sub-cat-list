@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+	<title>
+		<![CDATA[cat-sub-list]]>
+	</title>
+	<author>
+		<![CDATA[PluXml + gcyrillus]]>
+	</author>
+	<version>V-1.plx-5.8</version>
+	<date>21/12/2022</date>
+	<site>https://github.com/gcyrillus</site>
+	<description>
+		<![CDATA[basé sur le Thème par défaut 5.8. inclus ld-json / données structurées integrées , / role WAI-ARIA. listes imbriquées dans la sidebar pour le plugin plx-gc-categories.Defaut menu déroulant mobile corrigé]]>
+	</description>
+</document>
